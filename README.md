@@ -1,3 +1,3 @@
 # Fitness_App 
 
-### This is a just vue.js project for fitness_app i just want to test my ablitty in the front :)
+## This project is a fitness app that I only did the frontend part of and I did it to improve my frontend skills in vue.js.
